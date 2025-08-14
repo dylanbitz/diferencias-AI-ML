@@ -1,5 +1,7 @@
 # Diferencias de AI y Machine Learning
+
 Integrantes:
+
 - Dylan Bielostotzky
 - Mayra Caipe
 - Sebastián Casas
