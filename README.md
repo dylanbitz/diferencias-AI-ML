@@ -12,3 +12,5 @@ Gestor: Ing. Edison Cañon
 Machine Learning  
 20 de agosto de 2025
 hola Dylan
+# B Diferencias 
+
