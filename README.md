@@ -11,6 +11,16 @@ Universidad de Cundinamarca, Extensión Chía
 Gestor: Ing. Edison Cañon  
 Machine Learning  
 20 de agosto de 2025
-hola Dylan
-# B Diferencias 
 
+
+# B.Principales diferencias entre IA y Machine Learning
+
+| **Aspecto**      | **Inteligencia Artificial (IA)**                                                                 | **Machine learning (ML)**                                                                 |
+|------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Definición**   | Permite que una máquina simule la inteligencia humana para resolver problemas.                    | Permite que una máquina aprenda de forma autónoma a partir de datos anteriores.                      |
+| **Objetivo**     | Desarrollar un sistema inteligente capaz de realizar tareas complejas como lo haría una persona.  | Crear máquinas que aprendan de los datos recopilados para aumentar la precisión de los resultados.   |
+| **Aprendizaje**  | La inteligencia aprende, razona y se autocorrige combinando lógica y reglas.                  | Los sistemas se autocorrigen únicamente cuando se les proporcionan nuevos datos.                  |
+| **Tecnologías**  | -Sistemas expertos  <br> - Árboles de decisión  <br> - Procesamiento de lenguaje natural  <br> - Aprendizaje reforzado  <br> - Robótica inteligente  <br> - Visión por computador | - Algoritmos de aprendizaje supervisado  <br> - Aprendizaje automático  <br> - Modelos estadísticos   |
+| **Alcance**      | Aprendizaje, Robótica, Procesamiento de lenguaje natural, Visión por computador, etc.             | Alcance limitado a tareas específicas.                 |
+| **Tipo de datos**| - Estructurados  <br> - Semiestructurados  <br> - No estructurados                                | - Estructurados  <br> - Semiestructurados                                                            |
+| **Metodología**  | Compilación de sistemas que pueden resolver tareas complejas mediante la implementación de lógica, reglas y árboles de decisión. | Capacidad de la máquina para resolver tareas a partir de datos, aplicando modelos estadísticos y algoritmos de aprendizaje. |
