@@ -14,7 +14,7 @@ Machine Learning
 
 ## A. Definición
 
- La Inteligencia Artificial (IA) es una tecnología que permite a las computadoras simular la forma en la que aprenden, comprenden y resuelven problemas, tomando decisiones en el proceso buscando simular la creatividad y autonomía.
+ La Inteligencia Artificial **(IA)** es una tecnología que permite a las computadoras simular la forma en la que aprenden, comprenden y resuelven problemas, tomando decisiones en el proceso buscando simular la creatividad y autonomía.
  
  Sin embargo, es un concepto muy general, a día de hoy se podría decir que esa es la misión de la IA, en la actualidad según las diferentes herramientas son capaces de hacer diferentes actividades ya que aún no hemos llegado a una inteligencia tipo AGI (inteligencia artificial general) todavía.
 
@@ -41,11 +41,11 @@ con esto es decir que al menos se conoce la variable objetivo o del resultado, e
 supervisado es usado habitualmente para la evaluacion de riesgos, el reconocimiento de imagenes,
 el analisis predictivo y la detección de fraude, y este comprende varios tipos de algoritmos 
 
--Algoritmos de regresión: Este tipo de algoritmo suelen predecir valores de output identificando
+- Algoritmos de regresión: Este tipo de algoritmo suelen predecir valores de output identificando
 relaciones lineales entre valores reales o continuos, un uso para estos puede ser el calculo de la temperatura
 o de un salario, estos algoritmos incluyen la regresion lineal, el bosque aleatorio y el gradient boosting 
 
--Algoritmos de clasificacion: Como su nombre lo indica estos algoritmos predicen valores output categóricas, un
+- Algoritmos de clasificacion: Como su nombre lo indica estos algoritmos predicen valores output categóricas, un
 ejemplo de estas seria la clasificacion de basuras, si es reutilizable, organico o no aprovechable etiquetando las piezas de datos de
 entrada, los algoritmos de clasificacion incluyen, la regresion logística, los vecinos mas proximos y las maquinas de vectores de soportes
 
@@ -54,15 +54,13 @@ categorizar los puntos de datos en función de la similitud de valores un ejempl
 anomalias, los algoritmos de asociacion permiten a los cientificos de datos identificar la asociacion entre objetos de datos detnro de
 grandes bases de datos 
 
--K-medidas: Esto asigna puntos de los datos en K grupos, donde los puntos de datos cercanos a un centroide determinado se agrupan
- en una misma categoria y K representa os grupos en funcion de su tamaño y nivel de granualidad, la agrupacion en K-medidas es 
- usada habitualmente para la segmentacion del mercado, la agrupacion de documentos y la compresion de imagenes
+- K-medidas: Esto asigna puntos de los datos en K grupos, donde los puntos de datos cercanos a un centroide determinado se agrupan en una misma categoria y K representa os grupos en funcion de su tamaño y nivel de granualidad, la agrupacion en K-medidas es usada habitualmente para la segmentacion del mercado, la agrupacion de documentos y la compresion de imagenes
 
--Agrupación jerárquica: Describe un conjunto de técnicas de agrupación, entre las que se incluyen la agrupación aglomerativa donde los
+- Agrupación jerárquica: Describe un conjunto de técnicas de agrupación, entre las que se incluyen la agrupación aglomerativa donde los
 puntos de datos se aíslan inicualmente en grupos y luego se fucionan de una forma iterativa en funsion de similud y la agrupación
 divisiva, es la que en un unico clúster de datos se divide en funcion de las diferencias entre cada punto de los datos 
 
--Agrupación probabilística: Esta ayuda a resolver problemas de estimación de la densidad o de agrupación "suave" agrupando los puntos de
+- Agrupación probabilística: Esta ayuda a resolver problemas de estimación de la densidad o de agrupación "suave" agrupando los puntos de
 datos en función de la probabilidad de que pertenezcan a una determinada distribución.
 
 3. Aprendizaje por refuerzo: Es un tipo de programacion el cual entrena algoritmos mediante un sistema de recompensas y castigos
@@ -70,10 +68,10 @@ el cual es usado para implementar el aprendizaje por esfuerzo, donde un agente r
 objetivo predeterminado, segun las acciones del agente puede ser recompensado o castigado, segun una metrica establecida usualmente por
 puntos, con esto se busca animar al agente a continuar con las buenas practicas y desechar  de lado las malas 
 
-# D. Conclusión y síntesis
+## D. Conclusión y síntesis
 
-## Sintesis: 
+### Sintesis: 
 La IA básicamente es como enseñarle a las máquinas a pensar y tomar decisiones, mientras que el ML es el camino que les permite aprender solas observando datos, tal como una persona aprende con la experiencia, el ML se divide en 3 tipos de enfoques de aprendizaje: supervisado, no supervisado y por refuerzo, estas herramientas ya estan presentes en lo que usamos dia a dia, por ejemplo: Una app que recomienda música, sistemas que ayudan a los médicos a detectar enfermedades, las empresas en trabajar de manera más eficiente, etc.
 
-## Conclusión:
+### Conclusión:
 La IA y el ML no solo son tecnologias, son aliados que pueden hacernos la vida más fácil y abrirnos nuevas oportunidades, pero como toda herramienta de uso, tambien requieren cuidado, es decir, usarlas de manera responsable, ética y pensando siempre en el bien común. Esta en nuestra responsabilidad que estas innovaciones no solo cambien el futuro, sino que tambien lo mejoren para todos.
