@@ -31,4 +31,4 @@ Por otro lado, la AI no funciona como un concepto individual, sino que también 
 | **Alcance**      | Aprendizaje, Robótica, Procesamiento de lenguaje natural, Visión por computador, etc.             | Alcance limitado a tareas específicas.                 |
 | **Tipo de datos**| - Estructurados  <br> - Semiestructurados  <br> - No estructurados                                | - Estructurados  <br> - Semiestructurados                                                            |
 | **Metodología**  | Compilación de sistemas que pueden resolver tareas complejas mediante la implementación de lógica, reglas y árboles de decisión. | Capacidad de la máquina para resolver tareas a partir de datos, aplicando modelos estadísticos y algoritmos de aprendizaje. |
-=======
+
