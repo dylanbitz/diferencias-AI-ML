@@ -36,6 +36,5 @@ aaaaa
 | Comando | Definición | Ejecución |
 |:--------------:|:------------:|:-------------:|
 | `np.array()` | Te permite crear arrays directamente de tuplas o listas | ![01](./fotos-ejecuciones/01.png) |
-| Fila 2, Col 1 | Fila 2, Col 2 | Fila 2, Col 3 |
-
-
+| `np.zeros()` y `np.ones()` | Crean arrays multidimensionales de 0s y 1s | ![02](./fotos-ejecuciones/02.png) |
+| `np.reshape()` | Cambia la forma del array sin cambiar sus datos | ![03](./fotos-ejecuciones/03.png) |
