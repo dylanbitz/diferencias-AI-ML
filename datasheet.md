@@ -1,4 +1,8 @@
-# Comandos NumPy y Pandas
+# Métodos NumPy y Pandas
+
+## Introducción
+
+### Numpy
 
 Según la documentación oficial de NumPy (numpy.org) es una librería fundamental para ciencia de datos en Python, en el core de la librería se encuentran los objetos `ndarray` permitiéndonos encapsular un array de n-dimensiones con datos del mismo tipo, permitiendo realizar múltiples operaciones matemáticas y algoritmicas.
 
@@ -23,9 +27,15 @@ c = a * b
 
 Como se mencionó anteriormente, una de las cosas que hace a NumPy interesante es el trabajo detrás que realiza para obtener resultados eficientes de operaciones entre diferentes arrays, operaciones aritméticas, de la misma o diferente forma, escalares, etc. Además de que ofrece otras herramientas, como el _sorting_, _Discrete Fourier Transforms_, Álgebra Lineal básica, estadística y demás posibilidades.
 
-## A. Creación y manipulación de arreglos
+### Pandas
+
+aaaaa
+
+## A. NumPy - Creación y manipulación de arreglos
 
 | Comando | Definición | Ejecución |
-|--------------|:------------:|-------------:|
-| Fila 1, Col 1 | Fila 1, Col 2 | Fila 1, Col 3 |
+|:--------------:|:------------:|:-------------:|
+| `np.array()` | Te permite crear arrays directamente de tuplas o listas | ![01](./fotos-ejecuciones/01.png) |
 | Fila 2, Col 1 | Fila 2, Col 2 | Fila 2, Col 3 |
+
+
