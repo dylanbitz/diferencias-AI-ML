@@ -28,10 +28,6 @@ import pandas as pd
 | `.sort_values('columna')` | Ordena el DataFrame según los valores de una columna (ascendente o descendente). | ![alt text](imagenes/Sour_values.png) |
 | `.iloc[]` | Selección de filas/columnas por **posición numérica**. | ![alt text](imagenes/iloc.png) |
 
-## Referencias
-
-- NumPy.org. (s.f.). _NumPy Documentation_. <https://numpy.org/doc/stable/index.html>
-- Pandas.org. (s.f.). _Pandas Documentation_. <https://pandas.pydata.org/docs/>
 
 
 
