@@ -79,21 +79,21 @@ Esta librería se integra muy bien con otras librerías, como NumPy, Matplotlib,
 
 | Comando | Definición | Ejecución |
 |:--------------:|:------------:|:-------------:|
-| `np.mean()` | Calcula el promedio (media aritmética) de los elementos de un array | ![01](./fotos-ejecuciones/01.png) |
-| `np.std()` | Calcula la desviación estándar, medida de la dispersión de los datos |  |
-| `np.sum()` | Devuelve la suma de todos los elementos del array (puede ser por filas/columnas) |  |
-| `np.arange()` | Genera un array con valores en un rango definido, usando un paso específico |  |
-| `np.linspace()` | Genera un array con un número fijo de valores equiespaciados en un intervalo|  |
-| `np.random.rand()` | Genera números aleatorios con distribución uniforme en el rango [0, 1) |  |
-| `np.random.randn()` | Genera números aleatorios con distribución normal estándar (media 0, varianza 1) |  |
-| `np.random.randint()` | Genera enteros aleatorios dentro de un rango definido |  |
-| `np.random.seed()` | Fija la semilla para que los números aleatorios sean reproducibles |  |
-| `np.dot()` | Calcula el producto escalar o multiplicación de matrices |  |
-| `np.matmul()` / `@` | Multiplicación matricial (equivalente a `np.dot` en 2D, pero más general) | |
-| `np.linalg.det()` | Devuelve el determinante de una matriz |  |
-| `np.linalg.inv()` | Calcula la matriz inversa (si existe) |  |
-| `np.linalg.eig()` | Obtiene los autovalores y autovectores de una matriz cuadrada |  |
-| `np.linalg.solve()` | Resuelve un sistema de ecuaciones lineales de la forma Ax = b |  |
+| `np.mean()` | Calcula el promedio (media aritmética) de los elementos de un array | ![01](./fotos-ejecuciones/Mayra/01.png) |
+| `np.std()` | Calcula la desviación estándar, medida de la dispersión de los datos | ![02](./fotos-ejecuciones/Mayra/02.png) |
+| `np.sum()` | Devuelve la suma de todos los elementos del array (puede ser por filas/columnas) | ![03](./fotos-ejecuciones/Mayra/03.png) |
+| `np.arange()` | Genera un array con valores en un rango definido, usando un paso específico | ![04](./fotos-ejecuciones/Mayra/04.png) |
+| `np.linspace()` | Genera un array con un número fijo de valores equiespaciados en un intervalo| ![05](./fotos-ejecuciones/Mayra/05.png) |
+| `np.random.rand()` | Genera números aleatorios con distribución uniforme en el rango [0, 1) | ![06](./fotos-ejecuciones/Mayra/06.png) |
+| `np.random.randn()` | Genera números aleatorios con distribución normal estándar (media 0, varianza 1) | ![07](./fotos-ejecuciones/Mayra/07.png) |
+| `np.random.randint()` | Genera enteros aleatorios dentro de un rango definido | ![08](./fotos-ejecuciones/Mayra/08.png) |
+| `np.random.seed()` | Fija la semilla para que los números aleatorios sean reproducibles | ![09](./fotos-ejecuciones/Mayra/09.png) |
+| `np.dot()` | Calcula el producto escalar o multiplicación de matrices | ![10](./fotos-ejecuciones/Mayra/10.png) |
+| `np.matmul()` / `@` | Multiplicación matricial (equivalente a `np.dot` en 2D, pero más general) | ![11](./fotos-ejecuciones/Mayra/11.png) |
+| `np.linalg.det()` | Devuelve el determinante de una matriz | ![12](./fotos-ejecuciones/Mayra/12.png)  |
+| `np.linalg.inv()` | Calcula la matriz inversa (si existe) | ![13](./fotos-ejecuciones/Mayra/13.png) |
+| `np.linalg.eig()` | Obtiene los autovalores y autovectores de una matriz cuadrada | ![14](./fotos-ejecuciones/Mayra/14.png) |
+| `np.linalg.solve()` | Resuelve un sistema de ecuaciones lineales de la forma Ax = b | ![15](./fotos-ejecuciones/Mayra/15.png) |
 
 ## Referencias
 
