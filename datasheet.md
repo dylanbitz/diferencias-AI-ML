@@ -1,4 +1,11 @@
+## B. NumPy - Operaciones estadísticas y funciones avanzadas
+
 | Comando | Definición | Ejecución |
-|--------------|:------------:|-------------:|
-| Fila 1, Col 1 | Fila 1, Col 2 | Fila 1, Col 3 |
-| Fila 2, Col 1 | Fila 2, Col 2 | Fila 2, Col 3 |
+|:--------------:|:------------:|:-------------:|
+| `np.mean()` | Calcula el promedio (media aritmética) de los elementos de un array | ![01](./fotos-ejecuciones/01.png) |
+| `np.std()` | Calcula la desviación estándar, medida de la dispersión de los datos |  |
+| `np.sum()` | Devuelve la suma de todos los elementos del array (puede ser por filas/columnas) |  |
+| `np.arange()` | Genera un array con valores en un rango definido, usando un paso específico |  |
+| `np.linspace()` | Genera un array con un número fijo de valores equiespaciados en un intervalo|  |
+| `np.random.rand()` | Genera números aleatorios con distribución uniforme en el rango [0, 1) |  |
+| `np.random.randn()` | Genera números aleatorios con distribución normal estándar (media 0, varianza 1) |  |
