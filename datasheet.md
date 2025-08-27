@@ -99,3 +99,6 @@ Esta librería se integra muy bien con otras librerías, como NumPy, Matplotlib,
 
 - NumPy.org. (s.f.). _NumPy Documentation_. <https://numpy.org/doc/stable/index.html>
 - Pandas.org. (s.f.). _Pandas Documentation_. <https://pandas.pydata.org/docs/>
+- Aprende Con Alf. (s.f.). _La librería Numpy_. <https://aprendeconalf.es/docencia/python/manual/numpy/>
+- FreeCodeCamp. (Marzo 20 de 2021). _La guía definitiva del paquete NumPy para computación científica en Python_. <https://www.freecodecamp.org/espanol/news/la-guia-definitiva-del-paquete-numpy-para-computacion-cientifica-en-python/>
+- DataScientist. (18 de enero de 2025). _NumPy : La biblioteca de Python más utilizada en Data Science_. <https://datascientest.com/es/numpy-la-biblioteca-python>
